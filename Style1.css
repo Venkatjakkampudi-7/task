@@ -1,0 +1,32 @@
+@media (min-width:992px) {
+    html.w-mod-js:not(.w-mod-ix) [data-w-id="14a6065f-5ff5-9028-965f-8def937328b0"] 
+    {
+        -webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(-4deg) skew(0, 0);
+        -moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(-4deg) skew(0, 0);
+        -ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(-4deg) skew(0, 0);
+        transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(-4deg) skew(0, 0);
+    }
+    html.w-mod-js:not(.w-mod-ix) [data-w-id="d0124c01-28a2-7b50-68dc-555917fbaf3b"] 
+    {
+        -webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(null) rotateZ(2deg) skew(0, 0);
+        -moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(null) rotateZ(2deg) skew(0, 0);
+        -ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(null) rotateZ(2deg) skew(0, 0);
+        transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(null) rotateZ(2deg) skew(0, 0);
+        transform-style:preserve-3d;
+    }
+    html.w-mod-js:not(.w-mod-ix) [data-w-id="b928b045-b023-2fb5-c1f1-50f4be5f108b"] 
+    {
+        -webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(null) rotateZ(-2deg) skew(0, 0);
+        -moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(null) rotateZ(-2deg) skew(0, 0);
+        -ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(null) rotateZ(-2deg) skew(0, 0);
+        transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(null) rotateZ(-2deg) skew(0, 0);
+        transform-style:preserve-3d;
+    }
+    html.w-mod-js:not(.w-mod-ix) [data-w-id="74d68148-1477-5f19-e0e0-c1fd77416855"] 
+    {
+        -webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(4deg) skew(0, 0);
+        -moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(4deg) skew(0, 0);
+        -ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(4deg) skew(0, 0);
+        transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(4deg) skew(0, 0);
+    }
+}

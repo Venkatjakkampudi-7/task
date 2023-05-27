@@ -1,0 +1,38 @@
+.scroll-hide {
+    -ms-overflow-style: none;
+    overflow: -moz-scrollbars-none;
+}
+
+.scroll-hide::-webkit-scrollbar {
+        display: none;
+}
+
+.tab-link.w--current .socmed-wrapper {
+background: #a8ff35 !important;
+}
+
+.arrow-svg.aos-animate {
+	animation: reveal 2.5s forwards;
+}
+
+.arrow-svg.right.aos-animate {
+	animation: reveal_right 2.5s forwards;
+}
+
+@keyframes reveal {
+  25% {
+    clip-path: inset(0 0 0 100%);
+  }
+  100% {
+    clip-path: inset(0 0 0 0);
+  }
+}
+
+@keyframes reveal_right {
+  25% {
+    clip-path: inset(0 100% 0 0);
+  }
+  100% {
+    clip-path: inset(0 0 0 0);
+  }
+}
